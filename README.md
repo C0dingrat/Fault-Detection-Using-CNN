@@ -16,6 +16,7 @@ Produce dense voxel-wise fault probability volumes
 Reduce interpretation time dramatically
 
 In this project, fault detection is formulated as a 3D semantic segmentation problem, where each voxel is classified as either fault or non-fault.
+About the datset I took it from kaggle.
 
 Model Architecture used is 3D UNET:
 I used a 3D U-Net architecture, adapted from the original U-Net designed for biomedical image segmentation.
